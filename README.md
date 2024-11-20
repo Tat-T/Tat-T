@@ -2,6 +2,7 @@
 
 <img src="images/linux.png" alt="Linux" height="50"><img src="images/windows.png" alt="Окно приложения" height="50">
 
+<img src="images/C.png" alt="C" height="50">
 <img src="images/C++.png" alt="C++" height="50">
 <img src="images/Сsharp.png" alt="Csharp" height="50">
 <img src="images/maxresdefault_live.jpg" alt="HTMLCSSJS" height="63">
