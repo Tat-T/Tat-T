@@ -7,13 +7,9 @@ Interested in international projects and continuous professional growth.
 ---
 
 ### 🔧 Backend & Programming
-<img src="images/Сsharp.png" alt="C#" height="50"/>
-<img src="images/PHP.png" alt="PHP" height="50"/>
-<img src="images/maxresdefault_live.jpg" alt="HTML CSS JS" height="55"/>
+<img src="images/Сsharp.png" alt="C#" height="50"/><img src="images/PHP.png" alt="PHP" height="50"/><img src="images/maxresdefault_live.jpg" alt="HTML CSS JS" height="55"/>
 
-<img src="images/nginx.png" alt="Nginx" height="50"/>
-<img src="images/insomnia.png" alt="Insomnia" height="50"/>
-<img src="images/docker.png" alt="Docker" height="50"/>
+<img src="images/nginx.png" alt="Nginx" height="50"/><img src="images/insomnia.png" alt="Insomnia" height="50"/><img src="images/docker.png" alt="Docker" height="50"/>
 
 ---
 
@@ -28,18 +24,12 @@ Interested in international projects and continuous professional growth.
 ---
 
 ### 🛠 Tools & Environment
-<img src="images/VisualStudiologo.jpg" alt="Visual Studio" height="50"/>
-<img src="images/VSCode.png" alt="VS Code" height="50"/>
-<img src="images/Git.png" alt="Git" height="50"/>
-<img src="images/linux.png" alt="Linux" height="50"/>
-<img src="images/windows.png" alt="Windows" height="50"/>
+<img src="images/VisualStudiologo.jpg" alt="Visual Studio" height="50"/><img src="images/VSCode.png" alt="VS Code" height="50"/><img src="images/Git.png" alt="Git" height="50"/><img src="images/linux.png" alt="Linux" height="50"/><img src="images/windows.png" alt="Windows" height="50"/>
 
 ---
 
 ### 🧠 Engineering Background
-<img src="images/UML_logo.svg.png" alt="UML" height="45"/>
-<img src="images/SolidWorks.png" alt="SolidWorks" height="50"/>
-<img src="images/Kompas.png" alt="Kompas" height="50"/>
+<img src="images/UML_logo.svg.png" alt="UML" height="45"/><img src="images/SolidWorks.png" alt="SolidWorks" height="50"/><img src="images/Kompas.png" alt="Kompas" height="50"/>
 
 ---
 
